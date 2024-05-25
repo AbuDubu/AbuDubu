@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey 👋! My Name is Abubakar I am a Computing Science Student at UAlberta and a Full stack Developer.
 <!--
 **AbuDubu/AbuDubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
